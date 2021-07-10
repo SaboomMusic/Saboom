@@ -11,3 +11,5 @@ Apasati listen, asteptati cateva momente pentru a obtine rezultatele cautarii ra
 2. Ca user imi doresc sa am un buton "cancel" pentru a putea opri cautarea unei melodii. 
 3. Ca user imi doresc sa am un buton de tip "clear" pentru a sterge datele care imi apar in meniul aplicatiei.
 4. Ca user imi doresc sa pot apasa pe ecranul de pornire (Activity splash) pentru a putea ajunge mai repede la meniul principal ( Acitivity Samboom )
+
+The app is responsive (it can be used from any device and it looks good from everywhere )
