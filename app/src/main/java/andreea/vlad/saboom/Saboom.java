@@ -22,7 +22,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class Saboom extends AppCompatActivity implements IACRCloudListener{
-    private final static int ASK_MULTIPLE_PERMISSION_REQUEST_CODE = 1105;
+    private final static int ASK_MULTIPLE_PERMISSION_REQUEST_CODE = 1268;
 
     private ACRCloudClient mClient;
     private ACRCloudConfig mConfig;
